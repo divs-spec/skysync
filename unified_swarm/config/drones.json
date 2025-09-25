@@ -1,0 +1,16 @@
+{
+  "drones": [
+    {
+      "id": "drone1",
+      "max_speed": 5.0
+    },
+    {
+      "id": "drone2",
+      "max_speed": 5.0
+    },
+    {
+      "id": "drone3",
+      "max_speed": 5.0
+    }
+  ]
+}
