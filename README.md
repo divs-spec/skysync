@@ -222,4 +222,4 @@ Divyani Singh
 ---
 
 **Contact**
-email id - divyanisingh210221101@gmail.com
+email id - ikrakizoi2607@gmail.com
